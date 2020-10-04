@@ -1,0 +1,1 @@
+<div class="footer">© Copyright Nicolas VITE</div>
